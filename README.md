@@ -5,3 +5,5 @@ This was a game I created with my partner for one of my classes. This game was c
 Our goal was to create a game where the user would be able to play against an AI opponent by using a client-server architecture. We also integrated Maven for efficient project management and dependency handling as well as JUnit for testing.
 
 In order to plan this game, we also used Figma to design and prototype the user interface prior to development.
+
+The codespaces we used to create this game were Eclipse and IntelliJ. Both of us were comfortable with these two apps as we had used them to learn Java.

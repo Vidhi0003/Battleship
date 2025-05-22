@@ -7,3 +7,5 @@ Our goal was to create a game where the user would be able to play against an AI
 In order to plan this game, we also used Figma to design and prototype the user interface prior to development.
 
 The codespaces we used to create this game were Eclipse and IntelliJ. Both of us were comfortable with these two apps as we had used them to learn Java.
+
+![Screenshot 2025-05-22 162939](https://github.com/user-attachments/assets/3225ed2c-12df-4b9a-9645-861fcda6ddf1)
